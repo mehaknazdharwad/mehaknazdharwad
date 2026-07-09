@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mehak%20Naz%20Dharwad&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Game%20Builder&descAlignY=58&descAlign=50" alt="Mehak Naz Dharwad" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2800&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=Mehak+Naz+Dharwad" alt="Mehak Naz Dharwad" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=E91E63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Game+Builder" alt="Tagline" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;Building+games%2C+tools%2C+and+smart+systems;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Building+games%2C+tools%2C+and+smart+systems;Always+learning%2C+always+shipping" alt="Typing animation" />
 
 <br />
 
