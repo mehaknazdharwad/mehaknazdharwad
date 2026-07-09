@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**Hi, I'm Mehak** — a full-stack developer who builds at the intersection of software, AI, and real-world impact.
+**Hi, I'm Mehak**, a full-stack developer who builds at the intersection of software, AI, and real-world impact.
 
 From multiplayer games and fitness assistants to computer vision safety systems and misinformation detection tools, I love turning ideas into things people can actually use.
 
@@ -33,7 +33,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 ```
 📍  India
 👩‍💻  she/her
-🎯  TypeScript · AI · CV
+🎯  TypeScript | AI | CV
 🚀  Career Ninja
 ```
 
@@ -43,9 +43,9 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 | | |
 |:---|:---|
-| 🔭 **Now** | Shipping [**Career Ninja**](https://github.com/mehaknazdharwad/career-ninja) — a multiplayer arcade career discovery game |
+| 🔭 **Now** | Shipping [**Career Ninja**](https://github.com/mehaknazdharwad/career-ninja), a multiplayer arcade career discovery game |
 | 🌱 **Learning** | TypeScript patterns, AI agents, and scalable app architecture |
-| 💡 **Into** | Game dev · Computer vision · Health tech · Responsible AI |
+| 💡 **Into** | Game dev, computer vision, health tech, responsible AI |
 | 📫 **Contact** | [mehaknazdharwad@gmail.com](mailto:mehaknazdharwad@gmail.com) |
 
 ---
@@ -54,32 +54,43 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,java&perline=8" alt="Languages" />
+<table>
+<tr>
+<td align="center" width="50%">
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,java&perline=5" alt="Languages" />
+</td>
+<td align="center" width="50%">
+<b>Web</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&perline=6" alt="Web" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=6" alt="Tools" />
+</td>
+<td align="center">
+<b>AI & Data</b><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,postgres&perline=3" alt="AI and Data" />
+</td>
+</tr>
+</table>
 
-### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&perline=8" alt="Web" />
+<br/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&perline=8" alt="Tools" />
-
-### AI & Data
-<img src="https://skillicons.dev/icons?i=python,tensorflow,postgres&perline=8" alt="AI" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-Computer%20Vision-FF6F00?style=flat-square)
-![OpenAI](https://img.shields.io/badge/AI%20Apps-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br/>
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
