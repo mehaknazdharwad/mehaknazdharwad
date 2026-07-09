@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2800&pause=1200&color=0a9396&center=true&vCenter=true&width=700&lines=Mehak+Naz+Dharwad" alt="Mehak Naz Dharwad" />
+## Mehak Naz Dharwad
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=ee9b00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Game+Builder" alt="Tagline" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94d2bd&center=true&vCenter=true&width=650&lines=Building+games%2C+tools%2C+and+smart+systems;Always+learning%2C+always+shipping" alt="Typing animation" />
+**Full Stack Developer** | **AI & Computer Vision** | Game Development  
+<sub>Building intelligent software, games, and real-world AI systems</sub>
 
 <br />
 
