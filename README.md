@@ -19,24 +19,34 @@
 
 ## 👋 About Me
 
-```typescript
-const mehak = {
-  name: "Mehak Naz Dharwad",
-  pronouns: "she/her",
-  role: "Developer · Learner · Builder",
-  location: "India",
-  focus: ["TypeScript", "AI/ML", "Computer Vision", "Full-Stack Apps"],
-  currently: "Shipping Career Ninja & exploring AI-powered products",
-  funFact: "I turn ideas into playable games and production-ready tools",
-};
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Hi, I'm Mehak** — a full-stack developer who builds at the intersection of software, AI, and real-world impact.
+
+From multiplayer games and fitness assistants to computer vision safety systems and misinformation detection tools, I love turning ideas into things people can actually use.
+
+</td>
+<td width="40%" valign="top">
+
+```
+📍  India
+👩‍💻  she/her
+🎯  TypeScript · AI · CV
+🚀  Career Ninja
 ```
 
-I'm a developer who loves building at the intersection of **software**, **AI**, and **real-world impact** — from multiplayer games and fitness assistants to computer vision safety systems and misinformation detection tools.
+</td>
+</tr>
+</table>
 
-- 🔭 **Currently working on** [Career Ninja](https://github.com/mehaknazdharwad/career-ninja) — a multiplayer arcade career discovery game
-- 🌱 **Learning** advanced TypeScript patterns, AI agents, and scalable app architecture
-- 💡 **Interested in** game dev, computer vision, health tech, and responsible AI
-- 📫 **Reach me at** [mehaknazdharwad@gmail.com](mailto:mehaknazdharwad@gmail.com)
+| | |
+|:---|:---|
+| 🔭 **Now** | Shipping [**Career Ninja**](https://github.com/mehaknazdharwad/career-ninja) — a multiplayer arcade career discovery game |
+| 🌱 **Learning** | TypeScript patterns, AI agents, and scalable app architecture |
+| 💡 **Into** | Game dev · Computer vision · Health tech · Responsible AI |
+| 📫 **Contact** | [mehaknazdharwad@gmail.com](mailto:mehaknazdharwad@gmail.com) |
 
 ---
 
