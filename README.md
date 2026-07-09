@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mehaknazdharwad/mehaknazdharwad/main/assets/header.svg" alt="Mehak Naz Dharwad banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mehak%20Naz%20Dharwad&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Game%20Builder&descAlignY=58&descAlign=50" alt="Mehak Naz Dharwad" width="100%" />
 
 <br />
 
