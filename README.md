@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 <td width="40%" valign="top">
 
 ```
-📍  India
-👩‍💻  she/her
-🎯  TypeScript | AI | CV
-🚀  Career Ninja
+Location   India
+Pronouns   she/her
+Focus      TypeScript | AI | CV
+Project    Career Ninja
 ```
 
 </td>
@@ -45,14 +45,14 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 | | |
 |:---|:---|
-| 🔭 **Now** | Shipping [**Career Ninja**](https://github.com/mehaknazdharwad/career-ninja), a multiplayer arcade career discovery game |
-| 🌱 **Learning** | TypeScript patterns, AI agents, and scalable app architecture |
-| 💡 **Into** | Game dev, computer vision, health tech, responsible AI |
-| 📫 **Contact** | [mehaknazdharwad@gmail.com](mailto:mehaknazdharwad@gmail.com) |
+| **Now** | Shipping [**Career Ninja**](https://github.com/mehaknazdharwad/career-ninja), a multiplayer arcade career discovery game |
+| **Learning** | TypeScript patterns, AI agents, and scalable app architecture |
+| **Into** | Game dev, computer vision, health tech, responsible AI |
+| **Contact** | [mehaknazdharwad@gmail.com](mailto:mehaknazdharwad@gmail.com) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -98,7 +98,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -120,7 +120,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -138,7 +138,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 <div align="center">
 
@@ -157,7 +157,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -173,7 +173,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -185,7 +185,7 @@ From multiplayer games and fitness assistants to computer vision safety systems 
 
 <div align="center">
 
-### Thanks for stopping by! ✨
+### Thanks for stopping by!
 
 <img src="https://komarev.com/ghpvc/?username=mehaknazdharwad&label=Profile%20Views&color=0a9396&style=flat-square" alt="Profile views" />
 
